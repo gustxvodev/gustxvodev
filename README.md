@@ -7,7 +7,7 @@ Sou um estudante apaixonado por desenvolvimento. Atualmente, estou focado em con
 ## Habilidades
 
 - **Linguagens de Programação**: Python e JavaScript.
-- **Ferramentas**: Vscode, git e github.
+- **Ferramentas**: Vscode, Git e Github.
 
 ## Contato
 
