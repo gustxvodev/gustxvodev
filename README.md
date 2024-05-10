@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, sou Antonio Gustavo 👋
 
-<!--
-**gustatxk/gustatxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou um estudante apaixonado por desenvolvimento. Atualmente, estou focado em concluir o ensino médio técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- **Linguagens de Programação**: Python e JavaScript.
+- **Ferramentas**: Vscode, git e github.
+
+## Contato
+
+- **E-mail**: gustavosousa4424@gmal
+- **GitHub**: github.com/gustatxk
+
+## Contribuições
+
+Estou sempre aberto a colaborações e sugestões. Se você tem alguma ideia ou deseja contribuir para algum dos meus projetos, sinta-se à vontade para entrar em contato.
