@@ -12,7 +12,7 @@ Sou um estudante apaixonado por desenvolvimento. Atualmente, estou focado em con
 ## Contato
 
 - **E-mail**: gustavosousa4424@gmal
-- **GitHub**: github.com/gustatxk
+- **Instagram**: https://www.instagram.com/gusta.txk/
 
 ## Contribuições
 
