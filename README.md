@@ -11,7 +11,7 @@ Sou um estudante apaixonado por desenvolvimento. Atualmente, estou focado em con
 
 ## Contato
 
-- **E-mail**: gustavosousa4424@gmal
+- **E-mail**: gustavosousa4424@gmail.com
 - **Instagram**: https://www.instagram.com/gusta.txk/
 
 ## Contribuições
