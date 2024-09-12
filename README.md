@@ -13,6 +13,7 @@ Sou um estudante apaixonado por desenvolvimento. Atualmente, estou focado em con
 
 - **E-mail**: gustavosousa4424@gmail.com
 - **Instagram**: https://www.instagram.com/gusta.txk/
+- **Linkedin**: https://www.linkedin.com/in/gustavo-sousa-a888032a9/
 
 ## Contribuições
 
