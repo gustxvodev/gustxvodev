@@ -23,11 +23,8 @@
 </div>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustatxk/gustatxk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustatxk/gustatxk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gustatxk/gustatxk/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/gustatxk/gustatxk/output/snake.svg" alt="Snake animation" />
+
 
 Sou um estudante apaixonado por programação e desenvolvimento web, sempre em busca de aprender e aplicar novas tecnologias. Meu foco é criar projetos que desafiem minhas habilidades e contribuam para o meu crescimento na área de tecnologia. Estou constantemente aprimorando minhas habilidades, e este espaço é onde compartilho minha jornada e projetos. Sinta-se à vontade para explorar e entrar em contato!
 
