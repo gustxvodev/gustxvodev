@@ -15,6 +15,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div><br/>
+Sou um estudante apaixonado por programação e desenvolvimento web, sempre em busca de aprender e aplicar novas tecnologias. Meu foco é criar projetos que desafiem minhas habilidades e contribuam para o meu crescimento na área de tecnologia. Estou constantemente aprimorando minhas habilidades, e este espaço é onde compartilho minha jornada e projetos. Sinta-se à vontade para explorar e entrar em contato!
 
 <!-- GitHub Stats -->
 <div align="center">  
@@ -23,10 +24,10 @@
 </div>
 
 <!-- Snake Animation -->
+<div align="center">  
 <img src="https://raw.githubusercontent.com/gustatxk/gustatxk/output/snake.svg" alt="Snake animation" />
+</div>
 
-
-Sou um estudante apaixonado por programação e desenvolvimento web, sempre em busca de aprender e aplicar novas tecnologias. Meu foco é criar projetos que desafiem minhas habilidades e contribuam para o meu crescimento na área de tecnologia. Estou constantemente aprimorando minhas habilidades, e este espaço é onde compartilho minha jornada e projetos. Sinta-se à vontade para explorar e entrar em contato!
 
 
 
