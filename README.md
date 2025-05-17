@@ -19,7 +19,7 @@ Sou um estudante apaixonado por programação e desenvolvimento web, sempre em b
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustatxk&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustatxk&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustatxk&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </div>
 
