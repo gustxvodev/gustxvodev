@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Olá,+meu+nome+é+Gustavo+Sousa!" alt="Typing SVG" />
 <div>
   <a href="https://www.instagram.com/gustxvo07/" target="_blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-sousa-a888032a9/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gustavosousa4424/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 </div> 
 
@@ -19,13 +19,13 @@ Sou um estudante apaixonado por programação e desenvolvimento web, sempre em b
 
 <!-- GitHub Stats -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustatxk&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustatxk&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustxvodev&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvodev&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
 </div>
 
 <!-- Snake Animation -->
 <div align="center">  
-<img src="https://raw.githubusercontent.com/gustatxk/gustatxk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gustxvodev/gustxvodev/output/snake.svg" alt="Snake animation" />
 </div>
 
 
